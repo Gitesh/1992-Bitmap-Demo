@@ -1,4 +1,4 @@
-#The Bitmap Demo - Alternative Intro
+The Bitmap Demo - Alternative Intro
 
 Date (filestamp on source): 27/10/92 
 
@@ -6,8 +6,8 @@ Language: 68000 Assembler
 
 Platform: Atari ST 
 
-    	*********************************************************
- 	*						        *
+	*********************************************************
+	*						        *
   	* +-------+     	       		 	~    ~	*
 	* |   |  ||         BITMAP DEMO JUNE 92       {. } {. }	*
  	* || .|   |  Source Code (C)1992 Gitesh Ramji    ( )	*
