@@ -1,18 +1,20 @@
-#The Bitmap Demo (1992) - Alternative Intro
+#The Bitmap Demo - Alternative Intro
 
-Date: 27/10/92
+Date (filestamp on source): 27/10/92 
+
+Language: 68000 Assembler
 
 Platform: Atari ST 
 
-    *********************************************************
- 	*												        *
-    * +-------+     	       		     		   ~    ~	*
+    	*********************************************************
+ 	*						        *
+  	* +-------+     	       		 	~    ~	*
 	* |   |  ||         BITMAP DEMO JUNE 92       {. } {. }	*
  	* || .|   |  Source Code (C)1992 Gitesh Ramji    ( )	*
- 	* |   |   | 			 -INTRO-                \===/	*
- 	* +-------+ 											*
+ 	* |   |   | 			 -INTRO-        \===/	*
+ 	* +-------+ 						*
 	* Super Pong.....Coming  soon to a PDL near you!        *
-	*														*
+	*							*
 	*********************************************************
 
 Alternative Intro for the Bitmap Demo 
