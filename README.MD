@@ -20,4 +20,4 @@ Platform: Atari ST
 Alternative Intro for the Bitmap Demo 
 
 
-See the menu disk in action: https://youtu.be/lOr6r9QAEf8
+See the intro in action: https://youtu.be/lOr6r9QAEf8
