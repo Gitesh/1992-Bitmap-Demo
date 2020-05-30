@@ -11,7 +11,7 @@ Platform: Atari ST
   	* +-------+     	       		 	~    ~	*
 	* |   |  ||         BITMAP DEMO JUNE 92       {. } {. }	*
  	* || .|   |  Source Code (C)1992 Gitesh Ramji    ( )	*
- 	* |   |   | 			 -INTRO-        \===/	*
+ 	* |   |   | 		 -INTRO-                \===/	*
  	* +-------+ 						*
 	* Super Pong.....Coming  soon to a PDL near you!        *
 	*							*
